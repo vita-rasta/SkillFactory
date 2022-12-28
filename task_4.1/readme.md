@@ -10,8 +10,8 @@ LISENSE: [MIT](./lisense.md)
 
 #### Основные команды GIT
 
-1. [git config](./config)
-2. [git init](./init)
+1. [git config](./config.md)
+2. [git init](./init.md)
 3. [git add](./add.md)
 4. [git commit](./commit.md)
 5. [git clone](./clone)
@@ -19,11 +19,11 @@ LISENSE: [MIT](./lisense.md)
 
 #### Работа с удаленным репозиторием
 
-1. [git remote add](./remote%20add)
-2. [git fetch](./fetch)
-3. [git merge](./merge)
-4. [git pull](./pull)
-5. [git push](./push)
+1. [git remote add](./remoteadd.md)
+2. [git fetch](./fetch.md)
+3. [git merge](./merge.md)
+4. [git pull](./pull.md)
+5. [git push](./push.md)
 
 ---
 
