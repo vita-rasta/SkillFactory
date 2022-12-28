@@ -1,4 +1,4 @@
-# Инструкция по работе с GIT 
+# Инструкция по работе с GIT
 
 LISENSE: [MIT](./lisense.md)
 
@@ -7,9 +7,10 @@ LISENSE: [MIT](./lisense.md)
 ---
 
 ### Содержание:
+
 1. [git status](./status.md)
 2. [git add](./add.md)
-3.
+3. [git commit](./commit.md)
 4.
 5.
 6.
@@ -17,7 +18,6 @@ LISENSE: [MIT](./lisense.md)
 8.
 9.
 10.
-
 
 ---
 
