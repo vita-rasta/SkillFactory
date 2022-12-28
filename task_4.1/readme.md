@@ -7,7 +7,7 @@ LISENSE: [MIT](./lisense.md)
 ---
 
 ### Содержание:
-1. 
+1. [git status](./status.md)
 2. [git add](./add.md)
 3.
 4.
