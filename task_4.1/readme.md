@@ -14,7 +14,7 @@ LISENSE: [MIT](./lisense.md)
 2. [git init](./init.md)
 3. [git add](./add.md)
 4. [git commit](./commit.md)
-5. [git clone](./clone)
+5. [git clone](./clone.md)
 6. [git status](./status.md)
 
 #### Работа с удаленным репозиторием
