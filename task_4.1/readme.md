@@ -8,16 +8,22 @@ LISENSE: [MIT](./lisense.md)
 
 ### Содержание:
 
-1. [git status](./status.md)
-2. [git add](./add.md)
-3. [git commit](./commit.md)
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+#### Основные команды GIT
+
+1. [git config](./config)
+2. [git init](./init)
+3. [git add](./add.md)
+4. [git commit](./commit.md)
+5. [git clone](./clone)
+6. [git status](./status.md)
+
+#### Работа с удаленным репозиторием
+
+1. [git remote add](./remote%20add)
+2. [git fetch](./fetch)
+3. [git merge](./merge)
+4. [git pull](./pull)
+5. [git push](./push)
 
 ---
 
